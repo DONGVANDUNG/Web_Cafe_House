@@ -108,12 +108,12 @@ nav {
     position: relative;
 }
 
-#banner #banner-./images {
+#banner #banner-images {
     display: flex;
     justify-content: space-between;
 }
 
-#banner #banner-./images .light {
+#banner #banner-images .light {
     width: 33%;
 }
 
@@ -803,7 +803,7 @@ ol li:before {
     #banner #banner-content h1 {
         font-size: 40px;
     }
-    #banner #banner-./images {
+    #banner #banner-images {
         width: 100%;
     }
     #banner #banner-content .descreption {
@@ -850,7 +850,7 @@ ol li:before {
     #banner #table-set {
         max-width: 100%;
     }
-    #banner #banner-./images .light {
+    #banner #banner-images .light {
         width: 70%;
     }
     #banner #banner-content .descreption {
